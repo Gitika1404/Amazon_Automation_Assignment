@@ -1,4 +1,4 @@
-# AmazonAutomation Selenium TestNG Suite
+# AmazonAutomation 
 
 ## 📌 Overview
 This project automates product search and cart functionality on **Amazon.com** using:
